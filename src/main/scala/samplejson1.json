@@ -1,0 +1,9 @@
+{
+  "name": "adarsh",
+  "gender": "male",
+  "age": "20",
+  "address": {
+    "area": "richmond",
+    "city": "bangalore"
+  }
+}

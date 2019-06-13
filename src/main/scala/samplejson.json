@@ -1,0 +1,48 @@
+[
+  {
+    "name": "adarsh",
+    "gender": "male",
+    "age": "20",
+    "address": {
+      "area": "richmond",
+      "city": {
+        "cityName": "bangalore",
+        "zip": {
+          "zip1": "123",
+          "zip2": "234"
+        }
+      }
+    }
+  },
+  {
+    "name": "adarsh",
+    "gender": "male",
+    "age": "20",
+    "address": {
+      "area": "richmond",
+      "city": {
+        "cityName": "bangalore",
+        "zip": {
+          "zip1": "123",
+          "zip2": "234",
+          "zip3": "456"
+        }
+      }
+    }
+  },
+  {
+    "name": "adarsh",
+    "gender": "male",
+    "age": "20",
+    "address": {
+      "area": "richmond",
+      "city": {
+        "cityName": "bangalore",
+        "zip": {
+          "zip1": "123",
+          "ziP1": "111"
+        }
+      }
+    }
+  }
+]
